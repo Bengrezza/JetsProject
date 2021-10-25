@@ -1,9 +1,9 @@
-package com.skilldistillery.jets.entities;
+package com.skilldistillery.jets.app;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import com.skilldistillery.jets.app.AirField;
+import com.skilldistillery.jets.entities.AirField;
 
 public class JetsApplication {
 

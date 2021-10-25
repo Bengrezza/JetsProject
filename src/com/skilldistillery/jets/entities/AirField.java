@@ -1,4 +1,4 @@
-package com.skilldistillery.jets.app;
+package com.skilldistillery.jets.entities;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -7,11 +7,6 @@ import java.io.FileReader;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-import com.skilldistillery.jets.entities.CargoPlane;
-import com.skilldistillery.jets.entities.FighterJet;
-import com.skilldistillery.jets.entities.Jet;
-import com.skilldistillery.jets.entities.JetPlane;
 
 public class AirField {
 
